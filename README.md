@@ -18,9 +18,8 @@
 - 🔒 **Digital ID PSA** – A public service awareness campaign warning students about digital ID-based campus surveillance risks
 
 ## 🔗 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/abdel-lopez) • [GitHub](https://github.com/sonders-web) • [Email](abdellopez4555@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/abdel-lopez-701226337/) • [GitHub](https://github.com/sonders-web) • [Email](abdellopez4555@gmail.com)
 
----
 
 ⭐ Fun fact: I use Arch btw 😎.  
 > “The quieter you become, the more you are able to hear.” – Rumi
